@@ -1,0 +1,5 @@
+{
+  "name": "Copy of POMS Mood State Analyzer",
+  "description": "An application to analyze mood states by processing POMS (Profile of Mood States) questionnaire data from Excel files. It calculates scores for seven mood dimensions and the Total Mood Disturbance (TMD).",
+  "requestFramePermissions": []
+}
